@@ -7,4 +7,6 @@ slides:
   - spacewar-players
   - spacewar-gamepad
   - spacewar-players
+  - nintendo-DS-Fat-Blue
+  - game_Boy
 ---
