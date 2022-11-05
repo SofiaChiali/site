@@ -21,6 +21,6 @@ events:
   - media-scrub
   - kinect
   - leap-motion
-  - Kesington_Trackball
+  - Kensington Expert Mouse
 ---
 
