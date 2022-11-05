@@ -16,5 +16,5 @@ slides:
   - menus-on-top
   - igoefinger
   - x-window-system
-  - Kesington-Trackball
+  - Kensington Expert Mouse
 ---
