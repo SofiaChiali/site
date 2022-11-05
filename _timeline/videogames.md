@@ -20,5 +20,4 @@ events:
   - math-blaster
   - minecraft-end-user
   - Counter-Strike
-  - ComputerSpace
 ---
