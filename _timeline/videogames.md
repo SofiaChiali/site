@@ -19,6 +19,7 @@ events:
   - pop
   - math-blaster
   - minecraft-end-user
+  - ComputerSpace-Blue
   - Counter-Strike
   - Half-Life the game
 ---
