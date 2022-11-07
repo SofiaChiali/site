@@ -13,5 +13,7 @@ events:
   - apple-mouse
   - mouse-test-software
   - the-apple-mouse
+  - Kensington Expert Mouse
+
 ---
 
